@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project combines an **exploratory data analysis (EDA)** and a **personal predictive modeling extension** based on a real-world banking customer dataset.
+This project combines an **exploratory data analysis (EDA)** and a **personal predictive modeling extension by Javier Gonzálvez** based on a real-world banking customer dataset.
 
-The **EDA and data preprocessing** were originally developed as a **group academic project** for the course *Programming I* during the **first year of the Double Degree in Mathematical Engineering and Physics**.
+The **EDA and data preprocessing** were originally developed as a **group academic project** for the course **Programming I** during the **first year of the Degree in Mathematical Engineering**.
 
 Building upon that foundation, the project was **individually extended as a personal project** with the objective of transitioning from descriptive analysis to a **simple and interpretable predictive model** focused on **customer churn**.
 
@@ -19,12 +19,12 @@ The overall goal of the project is to:
 ## 🧑‍💻 Authors
 
 ### Academic EDA (Group Work)
-- **Javier Gonzálvez Sempere**
-- Jairo Sánchez
+- **Jairo Sánchez Díaz-Concha**
+- Javier Gonzálvez Sempere
 - Luis González
 
 ### Predictive Modeling Extension
-- **Javier Gonzálvez Sempere** (individual work)
+- Javier Gonzálvez Sempere (individual work)
 
 ---
 
