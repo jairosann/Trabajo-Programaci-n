@@ -21,7 +21,7 @@ The overall goal of the project is to:
 ### Academic EDA (Group Work)
 - **Jairo Sánchez Díaz-Concha**
 - Javier Gonzálvez Sempere
-- Luis González
+- Luis González Gómez
 
 ### Predictive Modeling Extension
 - Javier Gonzálvez Sempere (individual work)
