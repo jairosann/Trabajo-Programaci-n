@@ -181,3 +181,6 @@ The focus is on clarity, reasoning, and interpretability
 Proyecto de análisis de datos de clientes bancarios con Python.
 Incluye un análisis exploratorio realizado en grupo y una extensión individual de modelado predictivo para anticipar el abandono de clientes mediante regresión logística.
 Se prioriza la interpretación y el razonamiento frente a la complejidad del modelo.
+
+
+    Análisis de datos de clientes de un banco  © 2025 by Jairo Sánchez Díaz-Concha, Javier Gonzálvez Sempere y Luis González Gómez is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
